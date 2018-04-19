@@ -2,9 +2,10 @@ html {
   font-family: Helvetica;
   text-align: center;
 }
-#top {
+h1 {
   font-size: 70px;
-  font-weight: bold;
+}
+  .top {font-weight: bold;
   color: white;
   background-image: url(building.png);
 }
@@ -12,10 +13,47 @@ html {
   font-size: 32px;
   font-weight: bold;
 }
-#titles {
+#identify {
+  font-size: 23px;
+  font-weight: bold;
+}
+#understand {
+  font-size: 23px;
+  font-weight: bold;
+}
+#execute{
+  font-size: 23px;
+  font-weight: bold;
+}
+#team{
+  font-size: 23px;
+  font-weight: bold;
+}
+#contact{
+  font-size: 23px;
+  font-weight: bold;
+}
+#portfolio{
   font-size: 23px;
   font-weight: bold;
 }
 #description {
   font-size: 14px;
 }
+#middle {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(building.png);
+  }
+  a {
+    font-size: 18px;
+    color: white;
+    text-align: center;
+  }
+  #footer {
+    font-size: 11px;
+    color: white;
+    background-color: dimgray;
+    text-align:left;
+  }
