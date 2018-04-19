@@ -12,3 +12,10 @@ html {
   font-size: 32px;
   font-weight: bold;
 }
+#titles {
+  font-size: 23px;
+  font-weight: bold;
+}
+#description {
+  font-size: 14px;
+}
